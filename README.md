@@ -15,7 +15,7 @@ a simple Vaadin8 Component (confirm Dialog)
 
 <dependency>
     <groupId>com.github.ironblaster</groupId>
-    <artifactId>GoogleMapsSearchAPI</artifactId>
+    <artifactId>Vaadin8ConfirmDialog</artifactId>
     <version>1.0</version>
 </dependency>
 ```
